@@ -1,8 +1,6 @@
 # O que eu fiz para rodar esse role no docker
 
-```md
 Antes de mais nada, é necessário [instalar o Docker](https://docs.docker.com/get-docker/) na sua máquina.
-```
 
 Basicamente, escrevi o arquivinho *test.py* que imprime em tela umas informações da máquina que está executando o script. Ele identifica caso esteja rodando em Mac ou outro OS.
 
